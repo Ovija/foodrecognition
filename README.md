@@ -15,8 +15,8 @@ For this project the FoodSeg103 dataset, a curated benchmark featuring 103 food 
     Validation: 2,135 images
   
 ##### To load via Hugging Face:
-from datasets import load_dataset
-ds = load_dataset("EduardoPacheco/FoodSeg103")
+    from datasets import load_dataset
+    ds = load_dataset("EduardoPacheco/FoodSeg103")
 
 ## Components
 
